@@ -1,5 +1,3 @@
-```
-![Alt text](https://g.gravizo.com/source/svg/custom_mark13?https%3A%2F%2Fgithub.com%2FPetit-Pas%2FTestMd%2Fblob%2Fmaster%2FExampleGraph.md)
 <details> 
 <summary></summary>
 custom_mark13
@@ -23,4 +21,3 @@ deactivate A;
 @enduml
 custom_mark13
 </details>
-```
